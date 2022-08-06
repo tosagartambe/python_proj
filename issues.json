@@ -1,0 +1,17 @@
+[
+    {
+    "title": "This is title",
+    "body": "This is body",
+    "lables": "bug",
+    "assignee": "tosagartambe",
+    "milestone": 1
+    },
+    {
+        "title": "This is title 1",
+        "body": "This is body 1",
+        "lables": "bug",
+        "assignee": "tosagartambe",
+        "milestone": 1
+    }
+
+]
